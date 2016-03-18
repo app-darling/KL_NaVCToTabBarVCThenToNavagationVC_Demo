@@ -1,0 +1,2 @@
+# KL_NaVCToTabBarVCThenToNavagationVC_Demo
+一个自己设计开发的iOS框架，可供新手做项目使用（注意框架结构很新颖，与一般的有所不同）
